@@ -1,15 +1,16 @@
-ADO.NET Disconnected mimari kullanýlarak yaptýðým basit Console uygulamasý (Kelime Oyunu).
-Oyun þu þekilde oynanmaktadýr;
+ADO.NET Disconnected mimari kullanÄ±larak yaptÄ±ÄŸÄ±m basit Console uygulamasÄ± (Kelime Oyunu).
+Oyun ÅŸu ÅŸekilde oynanmaktadÄ±r;
 1-)Kullanicidan 1 harf istenir.
-2-)Alinan harf ile baþlayan "Name"lerden birincisi seçilir ve seçilen Name'in son harfi ile baþlayan 
-Name'ler bulunur ve ilk seçilen Name silinir.Yeni bulunan Name'in en son harfi seçilir ...Bu þekilde bulunacak Name kalmayana kadar oyun devam eder.
-3-)En son kullanýcýya kaç kelime bulunduðu söylenir ve silinen veriler tekrar yüklenir.Oyun baþa döner.
+2-)Alinan harf ile baÅŸlayan "Name"lerden birincisi seÃ§ilir ve seÃ§ilen Name'in son harfi ile baÅŸlayan 
+Name'ler bulunur ve ilk seÃ§ilen Name silinir.Yeni bulunan Name'in en son harfi seÃ§ilir ...Bu ÅŸekilde bulunacak Name kalmayana kadar oyun devam eder.
+3-)En son kullanÄ±cÄ±ya kaÃ§ kelime bulunduÄŸu sÃ¶ylenir ve silinen veriler tekrar yÃ¼klenir.Oyun baÅŸa dÃ¶ner.
 
-Örnek verecek olursak Kullanici 'A' harfi girdi diyelim;
+Ã–rnek verecek olursak Kullanici 'A' harfi girdi diyelim;
 
-AHMET =>>> T harfi alinir ve AHMET Silinir.Ardýndan T harfi ile baþlayanlar sýralanýr. TUNA =>>> A harfi alýnýr TUNA Silinir.Bu sefer siralama: AYDIN seklinde olur.
-AYDIN										       TARIK							AYSE
-AYSE										       TARKAN
+AHMET =>>> T harfi alinir ve AHMET Silinir.ArdÄ±ndan T harfi ile baÅŸlayanlar sÄ±ralanÄ±r. TUNA =>>> A harfi alÄ±nÄ±r TUNA Silinir.         AYDIN										                                                               TARIK							
+AYSE										                                                               TARKAN                                                                                                                                                                                       Bu sefer siralama: AYDIN seklinde olur.AYDIN seÃ§ilir son harfi alÄ±nÄ±r ve silinir.A harfi baÅŸlayan sadece AYÅžE KalÄ±r.
+                   AYSE
+
 
 En son gelen harfle kelime bulunamazsa oyun biter .
 
