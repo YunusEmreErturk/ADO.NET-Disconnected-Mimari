@@ -7,13 +7,7 @@ Name'ler bulunur ve ilk seçilen Name silinir.Yeni bulunan Name'in en son harfi 
 
 Örnek verecek olursak Kullanici 'A' harfi girdi diyelim;
 
-AHMET =>>> T harfi alinir ve AHMET Silinir.Ardından T harfi ile başlayanlar sıralanır. TUNA =>>> A harfi alınır TUNA Silinir.         AYDIN										                                                               TARIK							
-AYSE										                                                               TARKAN                                                                                                                                                                                       Bu sefer siralama: AYDIN seklinde olur.AYDIN seçilir son harfi alınır ve silinir.A harfi başlayan sadece AYŞE Kalır.
-                   AYSE
-
-
-En son gelen harfle kelime bulunamazsa oyun biter .
-
-
+AHMET,AYDIN,AYSE =>>>AHMET seçilir 'T' harfi alinir ve AHMET Silinir.Ardından 'T' harfi ile başlayanlar sıralanır.TUNA,TARIK,TARKAN =>>>TUNA seçilir 'A'  harfi alınır TUNA Silinir.AYDIN,AYSE =>>> AYDIN seçilir 'N' harfi alınır ve AYDIN Silinir.                          Bu sefer A harfi başlayan sadece AYŞE Kalır.
+En son gelen harfle kelime bulunamazsa oyun biter .Veriler yüklenir ve oyun tekrar başlar.
 
 @Author Yunus Emre Erturk ====> yemrerturk@gmail.com / www.muhendiserturk.com  
